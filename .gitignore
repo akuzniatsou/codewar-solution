@@ -4,7 +4,6 @@ distributions
 .classpath
 .gradle
 .project
-.rup
 .settings
 .springBeans
 *.class
