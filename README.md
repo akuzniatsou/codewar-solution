@@ -1,4 +1,4 @@
 # wms-md
 
-##Solving problems from:
+Solving problems from:
 https://www.codewars.com
