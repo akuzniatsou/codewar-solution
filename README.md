@@ -1,4 +1,4 @@
-# wms-md
+# codewar-solution
 
 Solving problems from:
-https://www.codewars.com
+  1. https://www.codewars.com
